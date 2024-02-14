@@ -1,6 +1,6 @@
-# my_todo
+# My Todo Apps With Flutter
 
-A new Flutter project.
+Project yang berisi CRUD dengan terintegrasi database mysql 
 
 ## Getting Started
 
