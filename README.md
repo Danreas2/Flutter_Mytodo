@@ -2,6 +2,13 @@
 
 Project yang berisi CRUD dengan terintegrasi database mysql 
 
+## Connection
+Ganti ip REST API dengan ip server anda
+
+## JWT Token
+jwt dijadikan variabel yang nantinya akan di generate setiap kali login, namun jika sudah pernah login dan sesinya masih aktif maka akan otomatis ke halaman utama tanpa login.
+pengecheckan token setiap kali melakukan request dengan database sehingga jika sesinya habis otomatis redirect ke loginPage()
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
